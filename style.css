@@ -10,7 +10,7 @@
 
 .grid-container {
     display: grid;
-    grid-template-columns: 450px 200px 180px;
+    grid-template-columns: 450px 200px 200px;
     grid-template-rows: 230px 200px;
     background-color: hsl(210, 46%, 95%);
     gap: 20px;
@@ -52,10 +52,15 @@
     padding: 5px;
 } 
 
+h4 {
+    color: hsl(264, 81%, 84%);
+}
+
 img {
     width: 30px;
     height: 30px;
     border-radius: 50%;
+    
 }
 
 h3, p {
@@ -88,7 +93,14 @@ h3, p {
     display: flex;
     flex-direction: column;
     background-color: hsl(0, 0%, 100%);
-    padding: 10px;
+    height:450px;
+    font-size: 11px;
+    color: hsl(217, 19%, 35%);
+    padding-top: 0.6rem;
+    padding-left: 0.6rem;
+    padding-right: 0.6rem;
+    padding-bottom: 1rem;
+    border-radius: 3%;
 }
 
 .item3-3 {
@@ -112,6 +124,7 @@ h3, p {
     padding: 1rem;
     font-size: 11px;
     border-radius: 3%;
+    
 }
 
 .item4-4 {
