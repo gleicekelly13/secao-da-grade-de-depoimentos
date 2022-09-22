@@ -1,4 +1,4 @@
-# secao-da-grade-de-depoimentos
+# Seção da grade de depoimentos
 Projeto inspirado em um dos desafios do Frontend mentor, no qual coloquei em prática conceitos de flexbox, layout grid e responsividade.
 
 <div align="center">
