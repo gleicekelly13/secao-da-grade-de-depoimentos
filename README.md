@@ -1,5 +1,6 @@
-# Seção da grade de depoimentos
+<h1 align="center">Seção da grade de depoimentos</h1>
 Projeto inspirado em um dos desafios do Frontend mentor, no qual coloquei em prática conceitos de flexbox, layout grid e responsividade.
+<br>
 
 ## :desktop_computer: Desktop design
 <div align="center">
