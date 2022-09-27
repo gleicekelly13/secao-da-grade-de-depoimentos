@@ -13,3 +13,8 @@ Grade de depoimentos, inspirada em um dos desafios do Frontend mentor, na qual c
 <div align="center">
 <img src="https://user-images.githubusercontent.com/80974593/192184007-d8c927ac-7b9f-4a41-a034-06e5346bf913.png" width="300">
 </div>
+
+<h2 align="center">:hourglass: Status do projeto </h2>
+<h4>:white_check_mark: Desktop - FINALIZADO :white_check_mark: </h4> 
+<h4>:white_check_mark: Mobile - FINALIZADO :white_check_mark: </h4>
+<br>
