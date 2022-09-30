@@ -27,3 +27,8 @@ Grade de depoimentos, inspirada em um dos desafios do Frontend mentor, na qual c
 <p>HTML5</p>
 <p>CSS3</p>
 <br>
+
+# :sunglasses: Autora
+
+- GitHub - [GleiceKelly](https://github.com/gleicekelly13)
+- LinkedIn - [Gleice Kelly Oliveira](https://www.linkedin.com/in/gleicekelly13/)
