@@ -21,3 +21,9 @@ Grade de depoimentos, inspirada em um dos desafios do Frontend mentor, na qual c
 
 <h2 align="center"> :file_folder: Acesso ao projeto </h2>
 <p> Você pode acessar o projeto final clicando aqui: https://github.com/gleicekelly13/secao-da-grade-de-depoimentos </p>
+
+<br>
+<h2 align="center"> :computer: Tecnologias utilizadas </h2>
+<p>HTML5</p>
+<p>CSS3</p>
+<br>
