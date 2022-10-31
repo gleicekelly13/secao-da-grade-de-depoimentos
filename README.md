@@ -7,12 +7,14 @@ Grade de depoimentos, inspirada em um dos desafios do Frontend mentor, na qual c
 <div align="center">
 <img src="https://user-images.githubusercontent.com/80974593/192183397-482496d0-40fe-4240-ba67-32fa9fa5f4e7.png" width="800">
 </div>
+<br>
 
 ## :iphone: Mobile design
 <br>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/80974593/192184007-d8c927ac-7b9f-4a41-a034-06e5346bf913.png" width="300">
 </div>
+<br>
 
 <h2 align="center">:hourglass: Status do projeto </h2>
 <h4>:white_check_mark: Desktop - FINALIZADO :white_check_mark: </h4> 
@@ -25,8 +27,8 @@ Grade de depoimentos, inspirada em um dos desafios do Frontend mentor, na qual c
 
 <h2 align="center"> :file_folder: Acesso ao projeto </h2>
 <p> Você pode acessar o projeto final clicando aqui: https:https://gleicekelly13.github.io/secao-da-grade-de-depoimentos/ </p>
-
 <br>
+
 <h2 align="center"> :computer: Tecnologias utilizadas </h2>
 <p>HTML5</p>
 <p>CSS3</p>
