@@ -21,6 +21,7 @@ Grade de depoimentos, inspirada em um dos desafios do Frontend mentor, na qual c
 
 <h2 align="center">:hammer: Funcionalidades do projeto </h2>
 <p>Apresentar uma grade de depoimentos com formato em layout grid, que se adapta a diferentes dispositivos.</p>
+<br>
 
 <h2 align="center"> :file_folder: Acesso ao projeto </h2>
 <p> Você pode acessar o projeto final clicando aqui: https:https://gleicekelly13.github.io/secao-da-grade-de-depoimentos/ </p>
